@@ -12,9 +12,7 @@ You can setup this example using ``create-next-app``
 ``npx create-next-app --example https://github.com/qpixel/next-tailwind-ts next-tailwind-ts-example``
 ### PNPM
 ``pnpx create-next-app --example https://github.com/qpixel/next-tailwind-ts next-tailwind-ts-example``
-</details> 
-
-<br />
+</details>
 
 ## The stack
   - Next.JS
