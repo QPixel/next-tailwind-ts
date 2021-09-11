@@ -14,6 +14,8 @@ You can setup this example using ``create-next-app``
 ``pnpx create-next-app --example https://github.com/qpixel/next-tailwind-ts next-tailwind-ts-example``
 </details>
 
+If you want to get Tailwind intellisense with twin check this out: https://github.com/lightyen/vscode-tailwindcss-twin
+
 ## The stack
   - Next.JS
   - TailwindCSS
